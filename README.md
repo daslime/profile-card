@@ -28,5 +28,5 @@ To set up this project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [your-repository-url]
+   git clone [https://github.com/daslime/profile-card]
    cd Premium-Contact-Card
